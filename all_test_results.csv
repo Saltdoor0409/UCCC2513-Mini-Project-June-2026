@@ -1,0 +1,85 @@
+Index,True_ClassId,True_Name,Pred_ClassId,Pred_Name,Correct
+0,20,Go straight or right,1,Speed limit (15km/h),False
+1,20,Go straight or right,20,Go straight or right,True
+2,20,Go straight or right,20,Go straight or right,True
+3,20,Go straight or right,20,Go straight or right,True
+4,21,Go straight,21,Go straight,True
+5,21,Go straight,21,Go straight,True
+6,21,Go straight,21,Go straight,True
+7,21,Go straight,21,Go straight,True
+8,22,Go Left,22,Go Left,True
+9,23,Go Left or right,14,Dont overtake from Left,False
+10,23,Go Left or right,23,Go Left or right,True
+11,23,Go Left or right,23,Go Left or right,True
+12,23,Go Left or right,23,Go Left or right,True
+13,24,Go Right,24,Go Right,True
+14,24,Go Right,24,Go Right,True
+15,26,keep Right,26,keep Right,True
+16,27,Roundabout mandatory,27,Roundabout mandatory,True
+17,27,Roundabout mandatory,27,Roundabout mandatory,True
+18,27,Roundabout mandatory,27,Roundabout mandatory,True
+19,28,watch out for cars,28,watch out for cars,True
+20,28,watch out for cars,28,watch out for cars,True
+21,28,watch out for cars,28,watch out for cars,True
+22,29,Horn,29,Horn,True
+23,30,Bicycles crossing,30,Bicycles crossing,True
+24,30,Bicycles crossing,30,Bicycles crossing,True
+25,30,Bicycles crossing,30,Bicycles crossing,True
+26,31,Uturn,31,Uturn,True
+27,31,Uturn,31,Uturn,True
+28,0,Speed limit (5km/h),0,Speed limit (5km/h),True
+29,0,Speed limit (5km/h),0,Speed limit (5km/h),True
+30,0,Speed limit (5km/h),0,Speed limit (5km/h),True
+31,0,Speed limit (5km/h),0,Speed limit (5km/h),True
+32,1,Speed limit (15km/h),1,Speed limit (15km/h),True
+33,1,Speed limit (15km/h),1,Speed limit (15km/h),True
+34,2,Speed limit (30km/h),2,Speed limit (30km/h),True
+35,2,Speed limit (30km/h),2,Speed limit (30km/h),True
+36,3,Speed limit (40km/h),3,Speed limit (40km/h),True
+37,4,Speed limit (50km/h),4,Speed limit (50km/h),True
+38,5,Speed limit (60km/h),5,Speed limit (60km/h),True
+39,5,Speed limit (60km/h),5,Speed limit (60km/h),True
+40,7,speed limit (80km/h),7,speed limit (80km/h),True
+41,8,Dont Go straight or left,8,Dont Go straight or left,True
+42,10,Dont Go straight,10,Dont Go straight,True
+43,11,Dont Go Left,11,Dont Go Left,True
+44,11,Dont Go Left,11,Dont Go Left,True
+45,12,Dont Go Left or Right,12,Dont Go Left or Right,True
+46,13,Dont Go Right,13,Dont Go Right,True
+47,14,Dont overtake from Left,14,Dont overtake from Left,True
+48,15,No Uturn,15,No Uturn,True
+49,16,No Car,16,No Car,True
+50,17,No horn,17,No horn,True
+51,33,Traffic signals,33,Traffic signals,True
+52,52,Unknown6,52,Unknown6,True
+53,55,No entry,55,No entry,True
+54,56,Unknown7,56,Unknown7,True
+55,57,Unknown8,57,Unknown8,True
+56,32,Road Divider,42,Unknown3,False
+57,32,Road Divider,35,Zebra Crossing,False
+58,34,Danger Ahead,34,Danger Ahead,True
+59,34,Danger Ahead,35,Zebra Crossing,False
+60,35,Zebra Crossing,35,Zebra Crossing,True
+61,35,Zebra Crossing,35,Zebra Crossing,True
+62,35,Zebra Crossing,35,Zebra Crossing,True
+63,36,Bicycles crossing,36,Bicycles crossing,True
+64,36,Bicycles crossing,36,Bicycles crossing,True
+65,36,Bicycles crossing,36,Bicycles crossing,True
+66,37,Children crossing,37,Children crossing,True
+67,37,Children crossing,37,Children crossing,True
+68,37,Children crossing,37,Children crossing,True
+69,38,Dangerous curve to the left,38,Dangerous curve to the left,True
+70,40,Unknown1,40,Unknown1,True
+71,42,Unknown3,37,Children crossing,False
+72,42,Unknown3,45,Unknown4,False
+73,43,Go right or straight,43,Go right or straight,True
+74,45,Unknown4,45,Unknown4,True
+75,45,Unknown4,45,Unknown4,True
+76,46,ZigZag Curve,42,Unknown3,False
+77,47,Train Crossing,35,Zebra Crossing,False
+78,47,Train Crossing,50,Fences,False
+79,47,Train Crossing,35,Zebra Crossing,False
+80,48,Under Construction,48,Under Construction,True
+81,49,Unknown5,49,Unknown5,True
+82,50,Fences,50,Fences,True
+83,51,Heavy Vehicle Accidents,51,Heavy Vehicle Accidents,True
